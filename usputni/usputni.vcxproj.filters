@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="dinamicki.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="staticki.cpp">
+    <ClCompile Include="nizovi.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
