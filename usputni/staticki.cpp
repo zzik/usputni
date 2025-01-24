@@ -2,7 +2,12 @@
 
 int main()
 {
+	
 
+
+
+
+	return 0;
 }
 
 //napravi 2 2d niza
